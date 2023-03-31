@@ -10,3 +10,10 @@ html specification: https://www.w3.org/TR/2011/WD-html5-20110405/
 
 웹사이트 방문자 분석기: https://analytics.google.com/analytics/web/
 
+CSS selector: https://www.w3schools.com/cssref/css_selectors.php
+
+HTML block element and inline element: https://www.w3schools.com/html/html_blocks.asp
+
+여러 CSS, JavaScript 기술들이 어떤 다양한 브라우저와 운영 체제에 의해 채택되어 있는가
+caniuse.com
+
